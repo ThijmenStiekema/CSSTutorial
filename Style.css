@@ -1,0 +1,29 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: navy;
+}
+
+h1 {
+    font-size: 2em;
+	 color: #ffc;
+    background-color: #009;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+p {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+	letter-spacing: 0.5em;
+    word-spacing: 1.5em;
+    line-height: 1.5;
+    text-align: center;
+}
+body {
+  
+  
+}
+
